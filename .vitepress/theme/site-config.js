@@ -107,7 +107,7 @@ export const siteConfig = {
     title: 'Sugargoo Spreadsheet 2026 - Sugargoo Finds, Category Guides and Product Research',
     description: 'Explore Sugargoo Spreadsheet 2026 through organized Sugargoo finds, category overviews, focused guides and direct spreadsheet access.',
     keywords: ['sugargoo spreadsheet 2026', 'sugargoo spreadsheet', 'sugargoo finds', 'clothing spreadsheet', 'shoes spreadsheet', 'pants spreadsheet', 'hats spreadsheet', 'accessories spreadsheet', 'electronics spreadsheet'],
-    ga4: 'G-9WJTE8DY0P',
+    ga4: 'G-T744WE5751',
   },
 
   // ---- Announcement Bar ----
